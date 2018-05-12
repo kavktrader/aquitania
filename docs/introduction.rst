@@ -1,22 +1,10 @@
-Welcome to Aquitania's documentation!
-=====================================
+Introduction
+============
 
 A framework based in Python for building trading bots that do simulations and live trades
 
-Working in progress:
--------------------
+The platform is highly configurable
 
-Documentation will be released in July 2018.
-
-It is currently an unstable version.
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-   introduction
-   installation
-   quickstart
 
 Philosofy:
 ---------

@@ -1,0 +1,14 @@
+Installation
+============
+
+Using PyPi
+----------
+
+You can install it from the PyPI::
+
+    $ pip install aquitania
+
+
+.. note:: If you are using linux you may need to run it as root because of the aquitania dependencies
+
+    TODO: Investigate what dependencies needs root.
