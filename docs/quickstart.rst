@@ -78,7 +78,7 @@ Setting start date for historical simulations
 
             return is_ok, profit, loss, entry
 
-    Save it as doji.py
+Save it as doji.py
 
 Getting started with a custom strategy using the Doji indicator
 ---------------------------------------------------------------
