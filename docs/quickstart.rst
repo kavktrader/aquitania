@@ -39,9 +39,20 @@ Setting start date for historical simulations
 
     import datetime
     aq = Aquitania(start_dt=datetime.datetime(1971, 2, 1))
-    Cleaning past simulations data:
+
+Cleaning past simulations data:
+-------------------------------
+
+.. code-block:: python
+
     aq.clean_data()
-    Creating a custom indicator:
+
+
+Creating a custom indicator:
+----------------------------
+
+.. code-block:: python
+
     from aquitania.indicator.signal.abstract_signal import AbstractSignal
 
 
