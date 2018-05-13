@@ -17,6 +17,7 @@ It is currently an unstable version.
    introduction
    installation
    quickstart
+   aquitania
 
 Philosofy:
 ---------
